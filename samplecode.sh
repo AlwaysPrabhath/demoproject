@@ -1,2 +1,1 @@
-please review create demoproject.sh and approve
-
+echo "Welcome to the demo project"
